@@ -1,5 +1,6 @@
 To test the correctness of the code execution, you need to add the appsettings.json file with the following parameters:
 
+```
 {
   "EmailSettings": {
     "SmtpHost": "smtp.gmail.com",
@@ -13,3 +14,4 @@ To test the correctness of the code execution, you need to add the appsettings.j
     "ReceiverEmail": "RECEIVER_EMAIL"
   }
 }
+```
